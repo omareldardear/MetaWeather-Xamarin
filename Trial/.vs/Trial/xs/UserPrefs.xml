@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C1A391A1-54DD-40C2-98C1-9C1C164B50D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Trial.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.62210917GH1269N049B" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trial" expanded="True">
+            <Node name="Trial" expanded="True">
+              <Node name="Modles" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="DetailsPage.xaml" expanded="True" />
+              <Node name="MasterPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Trial.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Trial.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Trial.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.74EE2F19-4933-4B43-AE21-3F0E423F022E" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Trial.DetailsPage">
+    <StackLayout>
+        <Label Text="Status: " x:Name="mStatusLabel"/>
+        <ActivityIndicator x:Name="mIndicator"/>
+        <Label Text="Today" FontSize="Large"/>
+        <Label Text="Weather State Name: " x:Name="Today_WSN"/>
+        <Label Text="Applicable Date" x:Name="Today_AD"/>
+        <Label Text="Min. Temp" x:Name="Today_MinT"/>
+        <Label Text="Max. Temp" x:Name="Today_MaxT"/>
+        
+       
+        
+        <Label Text="Tomorrow" FontSize="Large"/>
+        <Label Text="Weather State Name: " x:Name="Tomorrow_WSN"/>
+        <Label Text="Applicable Date" x:Name="Tomorrow_AD"/>
+        <Label Text="Min. Temp" x:Name="Tomorrow_MinT"/>
+        <Label Text="Max. Temp" x:Name="Tomorrow_MaxT"/>
+    </StackLayout>
+</ContentPage>

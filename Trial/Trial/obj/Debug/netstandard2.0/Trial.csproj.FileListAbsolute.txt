@@ -1,0 +1,13 @@
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/bin/Debug/netstandard2.0/Trial.deps.json
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/bin/Debug/netstandard2.0/Trial.dll
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/bin/Debug/netstandard2.0/Trial.pdb
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/DetailsPage.xaml.g.cs
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/MasterPage.xaml.g.cs
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/Trial.csproj.CoreCompileInputs.cache
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/Trial.AssemblyInfoInputs.cache
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/Trial.AssemblyInfo.cs
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/Trial.dll
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/Trial.pdb
+/Users/omareldardear/Desktop/Black Ball/Trial/Trial/obj/Debug/netstandard2.0/Trial.csprojAssemblyReference.cache
